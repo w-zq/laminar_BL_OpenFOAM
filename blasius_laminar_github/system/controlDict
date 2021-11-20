@@ -19,11 +19,11 @@ application     icoFoam;
 
 startFrom       latestTime;
 
-startTime       10.0;
+startTime       10.5;
 
 stopAt          endTime;
 
-endTime         10.5;
+endTime         11.0;
 
 deltaT          0.00025;
 
